@@ -1,7 +1,7 @@
 baseURL = 'https://mariachiaraferraiuolo.github.io/'
 languageCode = 'en-us'
 title = 'Mariachiara Ferraiuolo'
-theme = 'Hextra'
+theme = 'hextra'
 
 [menu]
   [[menu.main]]
